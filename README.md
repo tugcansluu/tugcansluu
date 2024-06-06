@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuğcan Uslu</h1>
 <h3 align="center">Computer Programming Student</h3>
+- 🌱 I'm currently learning Computer Programming and other programming languages
 
 - 🔭 I’m currently working on [Trion Minecraft Launcher](https://github.com/tugcansluu/Trion-Launcher)
 
