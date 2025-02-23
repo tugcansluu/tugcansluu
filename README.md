@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğcan Uslu</h1>
-<h3 align="center">Computer Programming Student</h3>
+<h3 align="center">ERP Assistant Specialist</h3>
 
 - 🔭 I’m currently working on [Trion Minecraft Launcher](https://github.com/tugcansluu/Trion-Launcher)
 
