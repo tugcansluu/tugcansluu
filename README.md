@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuğcan Uslu</h1>
-<h3 align="center">ERP Assistant Specialist</h3>
+<h3 align="center">ERP Assistant Specialist at Kahve Dünyası</h3>
 
-- 🔭 I’m currently working on [Trion Minecraft Launcher](https://github.com/tugcansluu/Trion-Launcher)
+- 🔭 I’m currently working on [Trion Minecraft Launcher](https://github.com/tugcansluu/Trion-Launcher) project.
 
 - 🌱 I’m currently learning **Computer Programming and other programming languages**
 
