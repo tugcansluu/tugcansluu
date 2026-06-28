@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tugcansluu&label=Profile%20views&color=708089&style=plastic" alt="tugcansluu" /> </p>
 
-- 🔭 My Last Project [KingoR](https://github.com/tugcansluu/KingoR)
+- 🔭 My Last Project [StokTakip](https://github.com/tugcansluu/StokTakip)
 
 - 🌱 I’m currently learning **Computer Programming and other programming languages**
 
