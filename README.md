@@ -11,8 +11,8 @@
 
 - 🔭 Currently working on **C# Automation Projects** (like *StokTakip*) and **Chrome Extensions**
 - 🌱 Constantly learning and building upon my **Computer Programming** background from Işık University
-- 💼 Working as an **ERP Assistant Specialist** at Kahve Dünyası
-- 🎮 When I'm not coding, I'm usually playing **Valorant**, **Overwatch**, or surviving in **Resident Evil**
+- 💼 Working as an **Oracle Cloud Fusion ERP Specialist** at Kahve Dünyası
+- 🎮 When I'm not coding, I'm usually playing PS5 and PC Video games
 - 🎧 Usually coding while listening to some good **rap and hip-hop**
 - 📫 How to reach me: **[tugcanslu@gmail.com](mailto:tugcanslu@gmail.com)**
 
