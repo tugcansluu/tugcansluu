@@ -44,7 +44,12 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
+  <a href="https://github.com/tugcansluu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugcansluu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="195" />
+  </a>
   <a href="https://github.com/tugcansluu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugcansluu&theme=tokyonight&hide_border=true" alt="Tuğcan's Streak" height="195" />
   </a>
