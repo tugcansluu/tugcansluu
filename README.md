@@ -46,9 +46,9 @@
 
 <p align="center">
   <a href="https://github.com/tugcansluu">
-    <img src="https://github-readme-stats.vercel.app/api?username=tugcansluu&show_icons=true&theme=tokyonight&hide_border=true" alt="Tuğcan's GitHub stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tugcansluu&show_icons=true&theme=tokyonight&hide_border=true" alt="Tuğcan's GitHub stats" height="195" />
   </a>
   <a href="https://github.com/tugcansluu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugcansluu&theme=tokyonight&hide_border=true" alt="Tuğcan's Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugcansluu&theme=tokyonight&hide_border=true" alt="Tuğcan's Streak" height="195" />
   </a>
 </p>
